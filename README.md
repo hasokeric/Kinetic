@@ -364,3 +364,29 @@
  * [EMF-737] - 	EpUserContextMenu - Pass username / email display next to image
  * [EMF-736] - 	EpUserContext Menu - Pass image data / rounded image display
  * [EMF-735] - 	Create the EpUserContextMenu component
+
+
+# Version - 2.0.0-beta.4
+<p><a href="https://kinetic.developer.epicor.com/framework/releases/2.0.0-beta.4/sdk" target="_blank">Component Documentation</a></p>
+<p><a href="https://kinetic.developer.epicor.com/framework/releases/2.0.0-beta.4/components" target="_blank">Component Showcase Harness</a></p>
+
+ * [KNTC-1591] - 	ShowProgress Indicator not always working on EpErpBaqService Get()
+ * [KNTC-1590] - 	EpDataView commit() and rollback() both broadcast same event.  They now broadcast unique events for both.
+ * [KNTC-1580] - 	Format Numeric Box spinner arrows on top of each other for EpGrid editing.
+ * [KNTC-1568] - 	EpTabStrip is not changing tabs dynamically when programatically adding / removing tabs.
+ * [KNTC-1564] - 	Kinetic - Add a guide for upgrading a Kinetic application to Angular 6 on the Kinetic website.
+ * [KNTC-1558] - 	Change the website Getting Started to update for the Angular 6 CLI
+ * [KNTC-1550] - 	Kinetic Interaction Guideline - Add a section for validation warnings and errors on user input. 
+ * [KNTC-1549] - 	Input labels - Improve the contrast and increase the font size by 1px.
+ * [KNTC-1532] - 	Upgrade the builds to Angular 6 CLI
+ * [KNTC-1520] - 	Upgrade the Kendo Component Library for Angular 6
+ * [KNTC-1492] - 	Setting the serverUrl in EpErpLoginComponent's model at runtime does not work
+ * [KNTC-1430] - 	Compile error when taking upgrade 8483.  Cannot declare block-scoped variable 'ngDevMode'
+ * [KNTC-1409] - 	EpPanelBar - Style with Kinetic design.
+ * [KNTC-976] - 	Upgrade Framework to Angular 6
+# Version - 2.0.0-beta.1
+<p><a href="https://kinetic.developer.epicor.com/framework/releases/2.0.0-beta.1/sdk" target="_blank">Component Documentation</a></p>
+<p><a href="https://kinetic.developer.epicor.com/framework/releases/2.0.0-beta.1/components" target="_blank">Component Showcase Harness</a></p>
+
+ * [KNTC-1485] - 	Released Epicor Kinetic Framework beta 1 to the market for Insights 2018 launch!
+
