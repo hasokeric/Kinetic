@@ -1,5 +1,5 @@
-![alt text](kinetic_logo.jpg "Kinetic Logo")
-#### The following guide contains the documentation for the Kinetic Framework components.
+CHANGELOG
+
 ***
 # Version - 2.0.0-alpha.8662
 ### Date Released: 5/14/2018 19:12
